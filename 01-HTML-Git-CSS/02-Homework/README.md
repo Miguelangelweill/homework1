@@ -43,3 +43,8 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+## My changes 
+* I semantically organized the page with semantic tags .
+* I added alt attributes to the images that didnt have any, and I also removed unnecessary closing image tags.
+* I fixed the link of the Search Engine Optimization navigational system.
