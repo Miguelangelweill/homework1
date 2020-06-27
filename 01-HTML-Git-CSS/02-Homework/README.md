@@ -48,3 +48,5 @@ You are required to submit the following for review:
 * I semantically organized the page with semantic tags .
 * I added alt attributes to the images that didnt have any, and I also removed unnecessary closing image tags.
 * I fixed the link of the Search Engine Optimization navigational system.
+* i set an aside attribute to the segments on the side .
+* and i changed most of the div tags that i still had .
