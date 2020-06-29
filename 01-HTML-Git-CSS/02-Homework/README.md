@@ -48,5 +48,8 @@ You are required to submit the following for review:
 * I semantically organized the page with semantic tags .
 * I added alt attributes to the images that didnt have any, and I also removed unnecessary closing image tags.
 * I fixed the link of the Search Engine Optimization navigational system.
-* i set an aside attribute to the segments on the side .
-* and i changed most of the div tags that i still had .
+* I set an aside attribute to the segments on the side .
+* I changed most of the div tags that i still had .
+* Today I took out a redundant div that I had placed around my navigational system. 
+* I replaced the div on the footer, for just a footer, and erased the class footer and just called it thru css by it's name.
+* I consolidated the css as much as I could.
