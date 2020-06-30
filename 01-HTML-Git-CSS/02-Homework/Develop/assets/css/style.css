@@ -129,6 +129,8 @@ aside {
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
+   
+    
 }
 
 .search-engine-optimization h2,
@@ -136,6 +138,7 @@ aside {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    
 }
 /*instead of it being a class im just calling the element*/
 footer {
